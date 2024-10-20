@@ -1,0 +1,6 @@
+﻿[arcnet]
+ap_ssid = "arcnet"
+ap_password = "12345678"
+ap_max_payload_len = 1024 # Max payload length
+ap_stack_size = 10240 # Need lots of stack to parse JSON
+ap_wifi_channel = 11 # Wi-Fi channel, between 1 and 11
